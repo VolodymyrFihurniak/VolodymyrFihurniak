@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on upVibe-server, upVibe-workers<br>👯 I’m looking to collaborate on denbykov<br>🌱 I’m currently learning React, React Native, Next.js, Vite.js, <br>📫 How to reach me volodymyr.fihurniak@gmail.com
+🔭 I’m currently working on upVibe-server, upVibe-workers<br>👯 I’m looking to collaborate on denbykov<br>🌱 I’m currently learning React, React Native, Next.js, Vite.js
 
 
 ## 🌐 Socials:
